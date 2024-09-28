@@ -11,7 +11,9 @@ The repo provides various flows for the Android Automate app
 ## Dependencies
 
 Automate app
+
 Automate extensions (installed using adb on Android 14)
+
 Extensions required:
 - Network Connectivity Extension
 
